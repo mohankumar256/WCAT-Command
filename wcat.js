@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// commands used -> npm init -y , npm link
 let fs = require("fs");
 //input
 let inputArr = process.argv.slice(2);
